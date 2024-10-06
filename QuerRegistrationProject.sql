@@ -1,3 +1,4 @@
+create database emp
 use  emp;
 -- create table employees (
 -- id int,
